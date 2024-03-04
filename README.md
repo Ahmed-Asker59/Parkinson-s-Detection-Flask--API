@@ -16,6 +16,10 @@
 
 </p>
 
+
+## Project overview
+* Just draw a shape of spiral or wave and send it in a post request and get the diagnosis back
+
 ## Project Components and futures
 * There are two models, one for each test </br>
   -Spiral model which is trained on spiral draws </br>
